@@ -57,7 +57,8 @@ header .navbar {
 
 .hero-section {
   height: 100vh;
-  background-image: url("..image/bg.png");
+  background-image: url("https://raw.githubusercontent.com/Kaito-code-practice/project-1--CSS/main/bg.png
+");
   background-size: cover;
   display: flex;
   padding: 0 20px;
@@ -189,6 +190,7 @@ header .navbar {
   margin-top: 30px;
   opacity: 0.7;
 }
+
 
 
 
